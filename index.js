@@ -1,3 +1,12 @@
-const axios = require('/useless');
+const questions = [
 
-module.exports = axios;
+];
+
+function writeToFile(fileName, data) {
+}
+
+function init() {
+
+}
+
+init();
