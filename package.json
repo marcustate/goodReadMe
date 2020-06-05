@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/marcustate/goodReadMe/issues"
   },
-  "homepage": "https://github.com/marcustate/goodReadMe#readme"
+  "homepage": "https://github.com/marcustate/goodReadMe#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "inquirer": "^7.1.0"
+  }
 }
